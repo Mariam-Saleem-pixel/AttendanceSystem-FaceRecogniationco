@@ -19,6 +19,7 @@ Integration with Web App: A Python-based web application enables administrators 
 Programming Language: Python
 Libraries Used: OpenCV, Flask
 Algorithms: Haar Cascade, LBPH
+<img width="506" alt="Screenshot 2024-11-16 180736" src="https://github.com/user-attachments/assets/14de503f-97cc-4a3e-83a5-c54dcc57afa2">
 
 
 **Achievements**
