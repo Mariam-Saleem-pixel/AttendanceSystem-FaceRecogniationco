@@ -20,14 +20,23 @@ Programming Language: Python
 Libraries Used: OpenCV, Flask
 Algorithms: Haar Cascade, LBPH
 **App Screenshots**
- **Front Page(Home Page)**
+
+**Front Page(Home Page)**
+
 <img width="468" alt="Screenshot 2024-12-05 222014" src="https://github.com/user-attachments/assets/7c5fe84a-50e8-4092-b64a-4c641c237bfa">
+
 **Add Student Details**
+
 <img width="469" alt="Screenshot 2024-12-05 222028" src="https://github.com/user-attachments/assets/03c84fa8-9bca-452b-b54b-02f84a18522d">
+
 **Face Recognition**
+
 <img width="475" alt="Screenshot 2024-12-05 222043" src="https://github.com/user-attachments/assets/2390057a-ce02-4bfc-b66d-d06c8e75ee5e">
+
 **Attendeance Histogram**
+
 <img width="470" alt="Screenshot 2024-12-05 222108" src="https://github.com/user-attachments/assets/dae639ab-c1f6-4ce9-8069-cd502edb5f74">
+
 **Achievements**
 Achieved high accuracy in face detection and recognition through tested algorithms.
 Delivered a practical and scalable solution adaptable to different domains.
